@@ -42,7 +42,9 @@ npx hardhat node
 ```bash
 npx hardhat run scripts/deploy.js --network localhost
 ```
-For this part, copy the address of "CharityDonation deployed to:" and paste in index.html under "contractAddress"\n\n
+For this part, copy the address of "CharityDonation deployed to:" and paste in index.html under "contractAddress"
+
+
 3. Run the frontend
 ```bash
 cd frontend
