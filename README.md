@@ -2,7 +2,7 @@
 
 # 🏗️ Blockchain-Based Charity Donation Tracking System
 
-This project is a decentralized charity donation platform that uses blockchain for transparency and accountability. Donations are tracked on-chain, and donors receive NFT-based donation certificates. The system is built with a React-based frontend, a Node.js backend, and Solidity smart contracts deployed using Hardhat.
+This project is a decentralized charity donation platform that uses blockchain for transparency and accountability. The system is built with a React-based frontend, a Node.js backend, and Solidity smart contracts deployed using Hardhat.
 
 ---
 
