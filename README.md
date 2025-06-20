@@ -18,7 +18,7 @@ charity_donation_project/
 ├── backend/            # Backend logic (Node.js/Firebase)
 ├── hardhat.config.js   # Hardhat configuration
 ```
-###🔧 Installation
+### 🔧 Installation
 1. Clone the repo
 ```bash
 git clone https://github.com/your-username/charity-donation-tracker.git
