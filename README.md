@@ -59,8 +59,7 @@ npm start
 ## Flow
 1. Connect to Wallet.
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/8443b07a-5ae3-420b-ab53-b5d69564ab16)
-![image](https://github.com/user-attachments/assets/48a52110-b1fc-484c-b734-a9c4ef4af9e5)" width="400"/>
+  <img src="![image](https://github.com/user-attachments/assets/8443b07a-5ae3-420b-ab53-b5d69564ab16)" width="400"/>
 </p>
 
 ![image](https://github.com/user-attachments/assets/8443b07a-5ae3-420b-ab53-b5d69564ab16)
