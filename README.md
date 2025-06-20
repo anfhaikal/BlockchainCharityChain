@@ -57,17 +57,20 @@ npm start
 ```
 
 ## Flow
-1. Connect to Wallet.
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/8443b07a-5ae3-420b-ab53-b5d69564ab16)" width="400"/>
-</p>
+1. Connect to Wallet.  
 
 ![image](https://github.com/user-attachments/assets/8443b07a-5ae3-420b-ab53-b5d69564ab16)
 ![image](https://github.com/user-attachments/assets/48a52110-b1fc-484c-b734-a9c4ef4af9e5)
+
 3. Enter value and click "Donate".  
+
 ![image](https://github.com/user-attachments/assets/d3e219e5-c023-4807-bb15-f8280547cf7f)
+
 4. Confirm Donation.  
+
 ![image](https://github.com/user-attachments/assets/939279d5-3002-4552-9bfd-2b7cf2a70d72)
+
 5. View Donation History.  
+
 ![image](https://github.com/user-attachments/assets/7ab7fa90-b90b-4ac9-8f95-09b5c3d3faf5)
 
