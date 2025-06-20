@@ -1,4 +1,4 @@
-# BlockchainCharityChain
+![image](https://github.com/user-attachments/assets/00786f23-a620-4325-a8c0-4b619be09a01)# BlockchainCharityChain
 
 # 🏗️ Blockchain-Based Charity Donation Tracking System
 
@@ -57,4 +57,5 @@ cd backend
 npm install
 npm start
 ```
+![image](https://github.com/user-attachments/assets/8443b07a-5ae3-420b-ab53-b5d69564ab16)
 
