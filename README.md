@@ -17,6 +17,18 @@ charity_donation_project/
 ├── frontend/           # React frontend interface
 ├── backend/            # Backend logic (Node.js/Firebase)
 ├── hardhat.config.js   # Hardhat configuration
-
+```
+###🔧 Installation
+1. Clone the repo
+```bash
 git clone https://github.com/your-username/charity-donation-tracker.git
 cd charity_donation_project
+```
+2. Install Dependencies
+```bash
+npm install
+```
+4. Compile Smart Contracts
+```bash
+npx hardhat compile
+```
