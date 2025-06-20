@@ -21,7 +21,7 @@ charity_donation_project/
 ### 🔧 Installation
 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/charity-donation-tracker.git
+git clone https://github.com/anfhaikal/BlockchainCharityChain.git
 cd charity_donation_project
 ```
 2. Install Dependencies
@@ -32,3 +32,26 @@ npm install
 ```bash
 npx hardhat compile
 ```
+
+### 🧪 Running the Project Locally
+1. Start a Local Blockchain Node
+```bash
+npx hardhat node
+```
+2. Deploy Contracts to the Local Network
+```bash
+npx hardhat run scripts/deploy.js --network localhost
+```
+3. Run the frontend
+```bash
+cd frontend
+npm install
+npm start
+```
+4. Run the backend
+```bash
+cd backend
+npm install
+npm start
+```
+
